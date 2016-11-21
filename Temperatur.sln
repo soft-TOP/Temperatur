@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperatur", "Temperatur\Temperatur.csproj", "{4D5BC654-34F6-4EE0-852E-BFBD7BBFDF32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturTests1", "TemperaturTests1\TemperaturTests1.csproj", "{0FAACDDF-F7FE-44FC-B7F9-AEBF3C3782F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturTests", "TemperaturTests1\TemperaturTests.csproj", "{0FAACDDF-F7FE-44FC-B7F9-AEBF3C3782F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature", "Temp\Temperature.csproj", "{D3D44647-020F-4389-85CB-F8ABDA95B859}"
 EndProject

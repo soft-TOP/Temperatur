@@ -1,10 +1,6 @@
 ﻿#define opAnzeige
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Globalization;
 
 namespace Temperatur
@@ -42,6 +38,14 @@ namespace Temperatur
         /// </summary>
         private Single kelvin = 0;
         private String sFahrenheit => $"{Fahrenheit,2}°F";
+
+        /*
+         * Zwei Schreibweisen für ein- und dieselbe Eigenschaft
+        private String sKelvin
+        {
+            get { return $"{Kelvin,2}K"; }
+        }
+         */
         private String sKelvin => $"{Kelvin,2}K";
         private String sCelsius => $"{Celsius,2}°C";
         #endregion
